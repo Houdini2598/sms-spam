@@ -11,11 +11,11 @@ In this repo i have created a SMS Spam Prediction project in machine learning us
 
 # How to run the project? :thinking:
 **1).** Run all command manually
-  - Clone github repository in your local system  `git clone https://github.com/yogeshnile/spam-sms-detector.git`
+  - Clone github repository in your local system  `git clone https://github.com/Houdini2598/sms-spam.git`
   - Move in spam-sms-detector repository  `cd spam-sms-detector`
   - Create new virtual python environment  `python3 -m venv venv`
   - Activate virtual python environment  `source venv/bin/activate`
-  - Install all the libraries mentioned in [requirements.txt](https://github.com/yogeshnile/spam-sms-detector/blob/master/requirements.txt)  using  `pip install -r requirements.txt`
+  - Install all the libraries mentioned in [requirements.txt]([https://github.com/yogeshnile/spam-sms-detector/blob/master/requirements.txt)  using  `pip install -r requirements.txt`
   - Run FlaskApp file  `python app.py`
   - Go to your browser and type http://127.0.0.1:5000/ in the address bar.
   - Hurray! That's it. <br>
@@ -23,7 +23,7 @@ In this repo i have created a SMS Spam Prediction project in machine learning us
 
 **2).** Run Shell Script
   - Clone github repository in your local system  `git clone https://github.com/yogeshnile/unix.git`
-  - Give execute permission to [spam-sms-detector.sh](https://github.com/yogeshnile/unix/blob/master/spam-sms-detector.sh) file via  `chmod +x spam-sms-detector.sh`
+  - Give execute permission to [spam-sms-detector.sh](https://github.com/Houdini2598/sms-spam/blob/main/spam-sms-detector.sh) file via  `chmod +x spam-sms-detector.sh`
   - Run spam-sms-detector.sh file using `./spam-sms-detector.sh`
   - Go to your browser and type http://127.0.0.1:5000/ in the address bar.
   - Finished...
@@ -63,7 +63,12 @@ In this repo i have created a SMS Spam Prediction project in machine learning us
 ```
 
 # Technology used in Project :hotsprings:
-<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Heroku.png" width="200">  <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="150">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">       <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/python_nltk.png" width="150">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/sklearn.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Flask.png" width="300">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">
+<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/Heroku.png" width="200"> 
+<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/numpy.png" width="200">      
+<img target="_blank" src="hhttps://github.com/Houdini2598/techimages/blob/main/python_nltk.png" width="150">    
+<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/sklearn.png" width="200">
+<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/Flask.png" width="300">   
+<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/pandas.png" width="300">
 
 ## ScreenShot :camera_flash:
 ![](https://github.com/yogeshnile/spam-sms-detector/blob/master/Images/1.png)    ![](https://github.com/yogeshnile/spam-sms-detector/blob/master/Images/2.png)    ![](https://github.com/yogeshnile/spam-sms-detector/blob/master/Images/3.png)
@@ -75,29 +80,22 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ## Connect with me! 🌐
-Known on internet as **Yogesh Nile**
+Known on internet as **Zeeshan Khan*
 
-[![][I_LinkedIn]][LinkedIn]  [![][I_Github]][Github] [![][I_Twitter]][Twitter] [![][I_Telegram]][Telegram] [![][I_Instagram]][Instagram]  [![][I_Instagram Personal]][Instagram Personal]   [![][I_discord]][discord]
 
 ## Email Me :e-mail:
 
 [![][I_Email]][E-mail]
 
 
-[LinkedIn]: https://bit.ly/2Ky3ho6
-[Github]: https://bit.ly/2yoggit
-[Twitter]: https://bit.ly/3dbLJLC
-[Telegram]: https://t.me/yogeshnile
-[Instagram]: https://bit.ly/3b9Qeo4
-[Instagram Personal]: https://bit.ly/32SXHV0
-[E-mail]: mailto:yogeshnile.work4u@gmail.com
-[discord]: https://discord.gg/R2ug3gR
+[LinkedIn]: https://www.linkedin.com/in/zeeshan-khan2598/
+[Github]: https://github.com/Houdini2598/
+[Telegram]: https://t.me/hihoudini
+[Instagram]: https://www.instagram.com/zeesh_n_/
+[E-mail]: zk255988@gmail.com
 
-[I_discord]: https://img.icons8.com/bubbles/100/000000/discord-logo.png
 [I_LinkedIn]: https://img.icons8.com/bubbles/100/000000/linkedin.png
 [I_Github]: https://img.icons8.com/bubbles/100/000000/github.png
-[I_Twitter]: https://img.icons8.com/bubbles/100/000000/twitter.png
 [I_Telegram]: https://img.icons8.com/bubbles/100/000000/telegram-app.png
 [I_Instagram]: https://img.icons8.com/bubbles/100/000000/instagram-new.png
-[I_Instagram Personal]: https://img.icons8.com/bubbles/100/000000/instagram.png
 [I_Email]: https://img.icons8.com/bubbles/100/000000/secured-letter.png
