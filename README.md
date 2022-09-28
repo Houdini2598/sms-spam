@@ -62,20 +62,10 @@ In this repo i have created a SMS Spam Prediction project in machine learning us
 ```
 
 # Technology used in Project :hotsprings:
-<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/Heroku.png" width="200"> 
-<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/numpy.png" width="200">      
-<img target="_blank" src="hhttps://github.com/Houdini2598/techimages/blob/main/python_nltk.png" width="150">    
-<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/sklearn.png" width="200">
-<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/Flask.png" width="300">   
-<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/pandas.png" width="300">
+<img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/Heroku.png" width="200">  <img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/numpy.png" width="200">      <img target="_blank" src="hhttps://github.com/Houdini2598/techimages/blob/main/python_nltk.png" width="150">    <img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/sklearn.png" width="200"><img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/Flask.png" width="300">   <img target="_blank" src="https://github.com/Houdini2598/techimages/blob/main/pandas.png" width="300">
 
 ## ScreenShot :camera_flash:
 ![](https://github.com/yogeshnile/spam-sms-detector/blob/master/Images/1.png)    ![](https://github.com/yogeshnile/spam-sms-detector/blob/master/Images/2.png)    ![](https://github.com/yogeshnile/spam-sms-detector/blob/master/Images/3.png)
-
-## Bug / Feature Request :man_technologist:
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/spam-sms-detector/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/spam-sms-detector/issues/new). Please include sample queries and their corresponding results.
 
 
 ## Connect with me! 🌐
