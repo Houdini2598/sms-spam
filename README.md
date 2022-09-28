@@ -81,6 +81,9 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Connect with me! 🌐
 Known on internet as **Zeeshan Khan*
 
+[![][I_LinkedIn]][LinkedIn]  [![][I_Github]][Github] [![][I_Telegram]][Telegram] [![][I_Instagram]][Instagram]  
+
+
 
 ## Email Me :e-mail:
 
@@ -91,7 +94,7 @@ Known on internet as **Zeeshan Khan*
 [Github]: https://github.com/Houdini2598/
 [Telegram]: https://t.me/hihoudini
 [Instagram]: https://www.instagram.com/zeesh_n_/
-[E-mail]: zk255988@gmail.com
+[E-mail]: mailto:zk255988@gmail.com
 
 [I_LinkedIn]: https://img.icons8.com/bubbles/100/000000/linkedin.png
 [I_Github]: https://img.icons8.com/bubbles/100/000000/github.png
